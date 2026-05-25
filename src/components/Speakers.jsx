@@ -13,7 +13,7 @@ function Speakers() {
     {
       name: "Pooja Lakhani",
       role: "Capgemini Aricent Technologies (Holdings) Limited, Australia",
-      image: "/Pooja Lakhani.jpg",
+      image: "/Pooja Lakhani.jpeg",
       link: "https://www.linkedin.com/in/pooja-lakhan-616489134/",
     },
     {
@@ -37,7 +37,7 @@ function Speakers() {
     {
       name: "Jyoti Kumari",
       role: "Cybersecurity Expert",
-      image: "/Jyoti Kumari.jpg",
+      image: "/Jyoti Kumari.jpeg",
       link: "https://www.linkedin.com/in/jyoti-kumari-153a65211/",
     },
     {
@@ -47,24 +47,12 @@ function Speakers() {
       link: "https://departments.nitj.ac.in/dept/it/Faculty/671a0f9ac9797782308bbd2d",
     },
     {
-      name: "Mr. Sidhartha Dash",
-      role: "TCS, Bhubaneswar",
-      image: "/Mr. Sidhartha Dash.jpg",
-      link: "https://www.linkedin.com/in/sidhartha-dash-1276364/",
-    },
-    {
       name: "Mr. Ajaya Kumar Lenka",
       role: "Director & CEO CVAAT Solutions Pvt. Ltd",
       image: "/Mr. Ajaya Kumar Lenka.png",
       link: "https://www.linkedin.com/in/ajaya-kumar-lenka-44044968/",
     },
-    {
-      name: "Mr. Suresh Mishra",
-      role: "IBM",
-      image: "/Mr. Suresh Mishra.jpg",
-      link: "https://www.linkedin.com/in/suresh-mishra-751b677/",
-    },
-  ];
+    ];
 
   return (
     <section className="py-6 bg-gradient-to-br from-[#0f172a] via-[#312e81] to-[#6b21a8] text-white text-center">
