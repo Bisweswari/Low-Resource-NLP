@@ -5,54 +5,42 @@ import { Autoplay } from "swiper/modules";
 function Speakers() {
   const speakers = [
     {
-      name: "Dr. Rishikesh Sahay",
-      role: "Digital Forensics and Penetration Expert, University of Illinois Springfield, USA",
-      image: "/Dr. Rishikesh Sahay.jpg",
-      link: "https://www.uis.edu/directory/rishikesh-sahay",
+      name: "Dr. Shantipriya Parida",
+      role: "AMD Silo, FinlandA",
+      image: "/Dr. Shantipriya Parida.webp",
+      link: "https://www.shantipriya.me/",
     },
     {
-      name: "Pooja Lakhani",
-      role: "Capgemini Aricent Technologies (Holdings) Limited, Australia",
-      image: "/Pooja Lakhani.jpeg",
-      link: "https://www.linkedin.com/in/pooja-lakhan-616489134/",
+      name: "Dr. Aloka Fernando",
+      role: "University of Moratuwa, Srilanka",
+      image: "/Dr. Aloka Fernando.jpg",
+      link: "https://www.linkedin.com/in/aloka-fernando-27aa6621/",
     },
     {
-      name: "Dr. Sumit Kumar Tetarave",
-      role: "KIIT Deemed to be University, Bhubaneswar",
-      image: "/Dr. Sumit Kumar Tetarave.jpg",
-      link: "https://scholar.google.com/citations?user=GmeJ5uoAAAAJ&hl=en",
+      name: "Amulya Ratna Dash",
+      role: "Senior Software Engineer, IQVIA RDS, Bangalore",
+      image: "/Amulya Ratna Dash.jpg",
+      link: "https://www.linkedin.com/in/amulyaratnadash0404/",
     },
     {
-      name: "Dr. Baisakhi Das",
-      role: "Institute of Engineering & Management, Kolkata",
-      image: "/Dr. Baisakhi Das.jpg",
-      link: "https://faculty.iem.edu.in/faculty/270",
+      name: "Dr. Naveen Saini",
+      role: "IIIT Allahabad",
+      image: "/Dr. Naveen Saini.jpg",
+      link: "https://sites.google.com/view/nsaini",
     },
     {
-      name: "Dr. Ghanshyam S. Bopche",
-      role: "National Institute of Technology (NIT), Tiruchirappalli",
-      image: "/Dr. Ghanshyam S. Bopche.jpg",
-      link: "https://www.nitt.edu/home/academics/departments/ca/facultymca/ghanshyam/",
+      name: "Dr. Sunayana Sitaram",
+      role: "Principal Researcher, Microsoft Research India",
+      image: "/Dr. Sunayana Sitaram.png",
+      link: "https://www.microsoft.com/en-us/research/people/susitara/",
     },
     {
-      name: "Jyoti Kumari",
-      role: "Cybersecurity Expert",
-      image: "/Jyoti Kumari.jpeg",
-      link: "https://www.linkedin.com/in/jyoti-kumari-153a65211/",
+      name: "Dr. Partha Pakray",
+      role: "NIT Silchar, India",
+      image: "Dr. Partha Pakray.png",
+      link: "https://cs.nits.ac.in/faculties/partha",
     },
-    {
-      name: "Dr. Ranjeet Kumar Rout",
-      role: "NIT, Jalandhar",
-      image: "Dr. Ranjeet Kumar Rout.jpeg",
-      link: "https://departments.nitj.ac.in/dept/it/Faculty/671a0f9ac9797782308bbd2d",
-    },
-    {
-      name: "Mr. Ajaya Kumar Lenka",
-      role: "Director & CEO CVAAT Solutions Pvt. Ltd",
-      image: "/Mr. Ajaya Kumar Lenka.png",
-      link: "https://www.linkedin.com/in/ajaya-kumar-lenka-44044968/",
-    },
-    ];
+  ];
 
   return (
     <section className="py-6 bg-gradient-to-br from-[#0f172a] via-[#312e81] to-[#6b21a8] text-white text-center">
