@@ -48,7 +48,7 @@ function Speakers() {
         {/* Heading */}
         <span className="text-pink-400 text-xs sm:text-sm">OUR SPEAKERS</span>
 
-        <h2 className="text-lg sm:text-xl md:text-2xl font-bold mb-6">
+        <h2 className="text-lg sm:text-2xl md:text-3xl font-bold mb-6">
           RESOURCE EXPERTS
         </h2>
 
