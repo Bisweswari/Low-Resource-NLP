@@ -6,7 +6,7 @@ function Speakers() {
   const speakers = [
     {
       name: "Dr. Shantipriya Parida",
-      role: "AMD Silo, FinlandA",
+      role: "AMD Silo, Finland",
       image: "/Dr. Shantipriya Parida.webp",
       link: "https://www.shantipriya.me/",
     },
