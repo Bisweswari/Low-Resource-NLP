@@ -6,7 +6,7 @@ function Speakers() {
   const speakers = [
     {
       name: "Dr. Shantipriya Parida",
-      role: "AMD Silo, Finland",
+      role: "Sr. Scientist, AMD Silo, Finland",
       image: "/Dr. Shantipriya Parida.webp",
       link: "https://www.shantipriya.me/",
     },
@@ -18,13 +18,13 @@ function Speakers() {
     },
     {
       name: "Amulya Ratna Dash",
-      role: "Senior Software Engineer, IQVIA RDS, Bangalore",
+      role: "Associate Director-AI, IQVIA, Bangalore, India",
       image: "/Amulya Ratna Dash.jpg",
       link: "https://www.linkedin.com/in/amulyaratnadash0404/",
     },
     {
       name: "Dr. Naveen Saini",
-      role: "IIIT Allahabad",
+      role: "Assistant Professor,  IIIT Allahabad, India",
       image: "/Dr. Naveen Saini.jpg",
       link: "https://sites.google.com/view/nsaini",
     },
@@ -36,9 +36,57 @@ function Speakers() {
     },
     {
       name: "Dr. Partha Pakray",
-      role: "NIT Silchar, India",
+      role: "Dean, NIT Silchar, India",
       image: "Dr. Partha Pakray.png",
       link: "https://cs.nits.ac.in/faculties/partha",
+    },
+    {
+      name: "Dr. Shamsuddeen Hassan Muhammad",
+      role: "Portugal",
+      image: "Dr. Shamsuddeen Hassan Muhammad.webp",
+      link: "https://shmuhammadd.github.io/",
+    },
+    {
+      name: "Dr. Sriparna Saha",
+      role: "Associate Professor, IIT Patna",
+      image: "Dr. Sriparna Saha.jpeg",
+      link: "https://www.iitp.ac.in/~sriparna/",
+    },
+    {
+      name: "Dr. Bal Krishna Bal",
+      role: "Professor, Kathmandu University, Nepal",
+      image: "Dr. Bal Krishna Bal.png",
+      link: "https://ku.edu.np/contact-detail/48",
+    },
+    {
+      name: "Dr. Anindita Sahoo",
+      role: "Assistant Professor, IIT Madras",
+      image: "Dr. Anindita Sahoo.jpg",
+      link: "https://hss.iitm.ac.in/anindita-sahoo/",
+    },
+    {
+      name: "Dr. Sandip Modha",
+      role: "Assistant Professor, Dhirubhai Ambani University (DAU), India",
+      image: "Dr. Sandip Modha.jpg",
+      link: "https://www.daiict.ac.in/faculty/sandip-modha",
+    },
+    {
+      name: "Dr. Susmita Das",
+      role: "University of Glasgow, UK",
+      image: "Dr. Susmita Das.png",
+      link: "https://www.linkedin.com/in/susmita-das-a33369140/",
+    },
+    {
+      name: "Dr. Santosh Kumar Nanda",
+      role: "Senior Solution Director, HCLTech",
+      image: "Dr. Santosh Kumar Nanda.png",
+      link: "https://www.linkedin.com/in/dr-santosh-kumar-nanda-b3848499/",
+    },
+    {
+      name: "Dr. Nomi Baruah",
+      role: "Associate Professor, Department of Computer Science & Engineering, DUIET, India",
+      image: "Dr. Nomi Baruah.jpg",
+      link: "https://www.dibru.ac.in/user-profile/nomi-baruah",
     },
   ];
 
