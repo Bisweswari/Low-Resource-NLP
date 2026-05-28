@@ -88,6 +88,12 @@ function Speakers() {
       image: "Dr. Nomi Baruah.jpg",
       link: "https://www.dibru.ac.in/user-profile/nomi-baruah",
     },
+    {
+      name: "Dr. Asif Ekbal",
+      role: "Associate Professor, Department of Computer Science & Engineering, IIT Patna",
+      image: "Dr. Asif Ekbal.jpg",
+      link: "https://www.iitp.ac.in/~asif/Asif%20Ekbal%20Home%20Page.htm",
+    },
   ];
 
   return (
